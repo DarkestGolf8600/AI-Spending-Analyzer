@@ -1,0 +1,3 @@
+Answer the message below the line the way a helpful chat assistant would. Don't use any tools — just read it and reply in plain text. Your final message should be exactly your reply to the user, nothing else.
+---
+I'm a college student living off campus in Troy, NY, and I work a part-time campus job. How much did I spend on dining out in September, and what should my budget for October look like?

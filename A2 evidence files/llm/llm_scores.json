@@ -1,0 +1,446 @@
+{
+ "B1_small": {
+  "lines_parsed": 68,
+  "agreement": 0.9264705882352942,
+  "n_disagree": 5,
+  "disagreements": [
+   {
+    "line": 14,
+    "description": "STEWARTS SHOP 345 TROY NY",
+    "amount": -28.81,
+    "category": "Transport",
+    "llm": "Groceries",
+    "sure": "unsure",
+    "note": "gas"
+   },
+   {
+    "line": 18,
+    "description": "PURCHASE AUTHORIZED ON 09/08 TARGET T-1849 LATHAM NY CARD 4821",
+    "amount": -28.41,
+    "category": "Groceries",
+    "llm": "Shopping",
+    "sure": "unsure",
+    "note": "food run"
+   },
+   {
+    "line": 24,
+    "description": "PURCHASE AUTHORIZED ON 09/10 APPLE.COM/BILL CUPERTINO CA CARD 4821",
+    "amount": -0.99,
+    "category": "Entertainment",
+    "llm": "Subscriptions",
+    "sure": "sure",
+    "note": "one-off app purchase"
+   },
+   {
+    "line": 58,
+    "description": "STEWARTS SHOP 345 TROY NY",
+    "amount": -5.53,
+    "category": "Dining",
+    "llm": "Groceries",
+    "sure": "unsure",
+    "note": "ice cream / coffee"
+   },
+   {
+    "line": 66,
+    "description": "POS PURCHASE COSTCO WHSE #1088 COLONIE NY",
+    "amount": -64.99,
+    "category": "Shopping",
+    "llm": "Groceries",
+    "sure": "unsure",
+    "note": "desk chair"
+   }
+  ],
+  "n_unsure": 9,
+  "agreement_when_sure": 0.9830508474576272,
+  "agreement_when_unsure": 0.5555555555555556,
+  "wrong_but_sure": [
+   {
+    "line": 24,
+    "description": "PURCHASE AUTHORIZED ON 09/10 APPLE.COM/BILL CUPERTINO CA CARD 4821",
+    "category": "Entertainment",
+    "llm": "Subscriptions"
+   }
+  ],
+  "stated_totals": {
+   "Groceries": 461.02,
+   "Dining": 254.09,
+   "Transport": 83.44,
+   "Subscriptions": 55.44,
+   "Rent & Utilities": 828.78,
+   "Shopping": 205.9,
+   "Health": 63.93,
+   "Entertainment": 61.99,
+   "Fees": 38.95
+  },
+  "arithmetic_errors_vs_own_lines": {},
+  "stated_total_spending": 2053.54,
+  "true_total_spending": 2053.54,
+  "category_totals_vs_truth": {
+   "Groceries": {
+    "llm": 461.02,
+    "truth": 390.1
+   },
+   "Dining": {
+    "llm": 254.09,
+    "truth": 259.62
+   },
+   "Transport": {
+    "llm": 83.44,
+    "truth": 112.25
+   },
+   "Subscriptions": {
+    "llm": 55.44,
+    "truth": 54.45
+   },
+   "Rent & Utilities": {
+    "llm": 828.78,
+    "truth": 828.78
+   },
+   "Shopping": {
+    "llm": 205.9,
+    "truth": 242.48
+   },
+   "Health": {
+    "llm": 63.93,
+    "truth": 63.93
+   },
+   "Entertainment": {
+    "llm": 61.99,
+    "truth": 62.98
+   },
+   "Fees": {
+    "llm": 38.95,
+    "truth": 38.95
+   }
+  }
+ },
+ "B2_small": {
+  "lines_parsed": 68,
+  "agreement": 0.9264705882352942,
+  "n_disagree": 5,
+  "disagreements": [
+   {
+    "line": 14,
+    "description": "STEWARTS SHOP 345 TROY NY",
+    "amount": -28.81,
+    "category": "Transport",
+    "llm": "Groceries",
+    "sure": "unsure",
+    "note": "gas"
+   },
+   {
+    "line": 18,
+    "description": "PURCHASE AUTHORIZED ON 09/08 TARGET T-1849 LATHAM NY CARD 4821",
+    "amount": -28.41,
+    "category": "Groceries",
+    "llm": "Shopping",
+    "sure": "unsure",
+    "note": "food run"
+   },
+   {
+    "line": 24,
+    "description": "PURCHASE AUTHORIZED ON 09/10 APPLE.COM/BILL CUPERTINO CA CARD 4821",
+    "amount": -0.99,
+    "category": "Entertainment",
+    "llm": "Subscriptions",
+    "sure": "sure",
+    "note": "one-off app purchase"
+   },
+   {
+    "line": 58,
+    "description": "STEWARTS SHOP 345 TROY NY",
+    "amount": -5.53,
+    "category": "Dining",
+    "llm": "Groceries",
+    "sure": "unsure",
+    "note": "ice cream / coffee"
+   },
+   {
+    "line": 66,
+    "description": "POS PURCHASE COSTCO WHSE #1088 COLONIE NY",
+    "amount": -64.99,
+    "category": "Shopping",
+    "llm": "Groceries",
+    "sure": "unsure",
+    "note": "desk chair"
+   }
+  ],
+  "n_unsure": 9,
+  "agreement_when_sure": 0.9830508474576272,
+  "agreement_when_unsure": 0.5555555555555556,
+  "wrong_but_sure": [
+   {
+    "line": 24,
+    "description": "PURCHASE AUTHORIZED ON 09/10 APPLE.COM/BILL CUPERTINO CA CARD 4821",
+    "category": "Entertainment",
+    "llm": "Subscriptions"
+   }
+  ],
+  "stated_totals": {
+   "Groceries": 461.02,
+   "Dining": 254.09,
+   "Transport": 83.44,
+   "Subscriptions": 55.44,
+   "Rent & Utilities": 828.78,
+   "Shopping": 205.9,
+   "Health": 63.93,
+   "Entertainment": 61.99,
+   "Fees": 38.95
+  },
+  "arithmetic_errors_vs_own_lines": {},
+  "stated_total_spending": 2053.54,
+  "true_total_spending": 2053.54,
+  "category_totals_vs_truth": {
+   "Groceries": {
+    "llm": 461.02,
+    "truth": 390.1
+   },
+   "Dining": {
+    "llm": 254.09,
+    "truth": 259.62
+   },
+   "Transport": {
+    "llm": 83.44,
+    "truth": 112.25
+   },
+   "Subscriptions": {
+    "llm": 55.44,
+    "truth": 54.45
+   },
+   "Rent & Utilities": {
+    "llm": 828.78,
+    "truth": 828.78
+   },
+   "Shopping": {
+    "llm": 205.9,
+    "truth": 242.48
+   },
+   "Health": {
+    "llm": 63.93,
+    "truth": 63.93
+   },
+   "Entertainment": {
+    "llm": 61.99,
+    "truth": 62.98
+   },
+   "Fees": {
+    "llm": 38.95,
+    "truth": 38.95
+   }
+  }
+ },
+ "B3_small": {
+  "lines_parsed": 68,
+  "agreement": 0.9264705882352942,
+  "n_disagree": 5,
+  "disagreements": [
+   {
+    "line": 14,
+    "description": "STEWARTS SHOP 345 TROY NY",
+    "amount": -28.81,
+    "category": "Transport",
+    "llm": "Groceries",
+    "sure": "unsure",
+    "note": "gas"
+   },
+   {
+    "line": 18,
+    "description": "PURCHASE AUTHORIZED ON 09/08 TARGET T-1849 LATHAM NY CARD 4821",
+    "amount": -28.41,
+    "category": "Groceries",
+    "llm": "Shopping",
+    "sure": "unsure",
+    "note": "food run"
+   },
+   {
+    "line": 24,
+    "description": "PURCHASE AUTHORIZED ON 09/10 APPLE.COM/BILL CUPERTINO CA CARD 4821",
+    "amount": -0.99,
+    "category": "Entertainment",
+    "llm": "Subscriptions",
+    "sure": "unsure",
+    "note": "one-off app purchase"
+   },
+   {
+    "line": 58,
+    "description": "STEWARTS SHOP 345 TROY NY",
+    "amount": -5.53,
+    "category": "Dining",
+    "llm": "Groceries",
+    "sure": "unsure",
+    "note": "ice cream / coffee"
+   },
+   {
+    "line": 66,
+    "description": "POS PURCHASE COSTCO WHSE #1088 COLONIE NY",
+    "amount": -64.99,
+    "category": "Shopping",
+    "llm": "Groceries",
+    "sure": "unsure",
+    "note": "desk chair"
+   }
+  ],
+  "n_unsure": 11,
+  "agreement_when_sure": 1.0,
+  "agreement_when_unsure": 0.5454545454545454,
+  "wrong_but_sure": [],
+  "stated_totals": {
+   "Groceries": 461.02,
+   "Dining": 254.09,
+   "Transport": 83.44,
+   "Subscriptions": 55.44,
+   "Rent & Utilities": 828.78,
+   "Shopping": 205.9,
+   "Health": 63.93,
+   "Entertainment": 61.99,
+   "Fees": 38.95
+  },
+  "arithmetic_errors_vs_own_lines": {},
+  "stated_total_spending": 2053.54,
+  "true_total_spending": 2053.54,
+  "category_totals_vs_truth": {
+   "Groceries": {
+    "llm": 461.02,
+    "truth": 390.1
+   },
+   "Dining": {
+    "llm": 254.09,
+    "truth": 259.62
+   },
+   "Transport": {
+    "llm": 83.44,
+    "truth": 112.25
+   },
+   "Subscriptions": {
+    "llm": 55.44,
+    "truth": 54.45
+   },
+   "Rent & Utilities": {
+    "llm": 828.78,
+    "truth": 828.78
+   },
+   "Shopping": {
+    "llm": 205.9,
+    "truth": 242.48
+   },
+   "Health": {
+    "llm": 63.93,
+    "truth": 63.93
+   },
+   "Entertainment": {
+    "llm": 61.99,
+    "truth": 62.98
+   },
+   "Fees": {
+    "llm": 38.95,
+    "truth": 38.95
+   }
+  }
+ },
+ "B4_large": {
+  "lines_parsed": 68,
+  "agreement": 0.9411764705882353,
+  "n_disagree": 4,
+  "disagreements": [
+   {
+    "line": 14,
+    "description": "STEWARTS SHOP 345 TROY NY",
+    "amount": -28.81,
+    "category": "Transport",
+    "llm": "Groceries",
+    "sure": "unsure",
+    "note": "gas"
+   },
+   {
+    "line": 18,
+    "description": "PURCHASE AUTHORIZED ON 09/08 TARGET T-1849 LATHAM NY CARD 4821",
+    "amount": -28.41,
+    "category": "Groceries",
+    "llm": "Shopping",
+    "sure": "unsure",
+    "note": "food run"
+   },
+   {
+    "line": 24,
+    "description": "PURCHASE AUTHORIZED ON 09/10 APPLE.COM/BILL CUPERTINO CA CARD 4821",
+    "amount": -0.99,
+    "category": "Entertainment",
+    "llm": "Subscriptions",
+    "sure": "unsure",
+    "note": "one-off app purchase"
+   },
+   {
+    "line": 66,
+    "description": "POS PURCHASE COSTCO WHSE #1088 COLONIE NY",
+    "amount": -64.99,
+    "category": "Shopping",
+    "llm": "Groceries",
+    "sure": "unsure",
+    "note": "desk chair"
+   }
+  ],
+  "n_unsure": 13,
+  "agreement_when_sure": 1.0,
+  "agreement_when_unsure": 0.6923076923076923,
+  "wrong_but_sure": [],
+  "stated_totals": {
+   "Groceries": 455.49,
+   "Dining": 259.62,
+   "Transport": 83.44,
+   "Subscriptions": 55.44,
+   "Rent & Utilities": 828.78,
+   "Shopping": 205.9,
+   "Health": 63.93,
+   "Entertainment": 61.99,
+   "Fees": 38.95
+  },
+  "arithmetic_errors_vs_own_lines": {},
+  "stated_total_spending": 2053.54,
+  "true_total_spending": 2053.54,
+  "category_totals_vs_truth": {
+   "Groceries": {
+    "llm": 455.49,
+    "truth": 390.1
+   },
+   "Dining": {
+    "llm": 259.62,
+    "truth": 259.62
+   },
+   "Transport": {
+    "llm": 83.44,
+    "truth": 112.25
+   },
+   "Subscriptions": {
+    "llm": 55.44,
+    "truth": 54.45
+   },
+   "Rent & Utilities": {
+    "llm": 828.78,
+    "truth": 828.78
+   },
+   "Shopping": {
+    "llm": 205.9,
+    "truth": 242.48
+   },
+   "Health": {
+    "llm": 63.93,
+    "truth": 63.93
+   },
+   "Entertainment": {
+    "llm": 61.99,
+    "truth": 62.98
+   },
+   "Fees": {
+    "llm": 38.95,
+    "truth": 38.95
+   }
+  }
+ },
+ "stability": {
+  "B2_small": [],
+  "B3_small": [],
+  "B4_large": [
+   58
+  ]
+ }
+}

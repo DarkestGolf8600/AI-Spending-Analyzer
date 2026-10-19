@@ -1,0 +1,11 @@
+Answer the message below the line the way a helpful chat assistant would. Don't use any tools — just read it and reply in plain text. Your final message should be exactly your reply, nothing else.
+---
+You are the explanation step in a student budgeting app. The app's code has already categorized the user's September transactions and computed every number below. Write a short summary for the user (under 150 words) and one concrete suggestion for October. Use only these numbers; don't recompute them or add facts that aren't here. If something needs the user's input, say so.
+
+DATA (September 2026)
+Income (2 paychecks): $685.27
+Total spending (excludes transfers): $2,053.54
+By category: Rent & Utilities $828.78 · Groceries $390.10 · Dining $259.62 · Shopping $242.48 · Transport $112.25 · Health $63.93 · Entertainment $62.98 · Subscriptions $54.45 · Fees $38.95
+Recurring bills found: rent $725.00, electric $54.90, internet $32.50, phone $16.38, ChatGPT $20.00, gym $15.00, Netflix $7.99, Amazon Prime $7.49, Spotify $5.99, Patreon $5.00, DashPass $4.99, bank service fee $4.95, iCloud $2.99
+Fees this month: overdraft fee $34.00 (Sep 2), service fee $4.95
+Guessed categories that need the user's confirmation: 2 Target purchases and 2 Stewart's purchases (could be groceries/gas or snacks)

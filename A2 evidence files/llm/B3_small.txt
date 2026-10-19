@@ -1,0 +1,113 @@
+CATEGORIES
+1 | Rent & Utilities | sure
+2 | Transport | sure
+3 | Subscriptions | sure
+4 | Fees | sure
+5 | Shopping | sure
+6 | Groceries | unsure
+7 | Dining | sure
+8 | Groceries | sure
+9 | Dining | sure
+10 | Subscriptions | sure
+11 | Shopping | sure
+12 | Dining | sure
+13 | Groceries | sure
+14 | Groceries | unsure
+15 | Groceries | sure
+16 | Dining | sure
+17 | Dining | sure
+18 | Shopping | unsure
+19 | Transport | sure
+20 | Transport | sure
+21 | Subscriptions | sure
+22 | Dining | sure
+23 | Dining | sure
+24 | Subscriptions | unsure
+25 | Income | sure
+26 | Subscriptions | sure
+27 | Transfers | sure
+28 | Rent & Utilities | sure
+29 | Entertainment | sure
+30 | Shopping | sure
+31 | Transfers | sure
+32 | Transfers | sure
+33 | Transport | sure
+34 | Groceries | unsure
+35 | Rent & Utilities | sure
+36 | Dining | sure
+37 | Dining | sure
+38 | Shopping | unsure
+39 | Health | sure
+40 | Transport | sure
+41 | Dining | sure
+42 | Health | unsure
+43 | Subscriptions | unsure
+44 | Dining | sure
+45 | Dining | sure
+46 | Dining | sure
+47 | Dining | sure
+48 | Dining | sure
+49 | Subscriptions | sure
+50 | Groceries | sure
+51 | Dining | sure
+52 | Shopping | unsure
+53 | Dining | sure
+54 | Dining | sure
+55 | Rent & Utilities | sure
+56 | Health | sure
+57 | Transfers | sure
+58 | Groceries | unsure
+59 | Dining | sure
+60 | Income | sure
+61 | Dining | sure
+62 | Subscriptions | sure
+63 | Dining | sure
+64 | Entertainment | sure
+65 | Transport | sure
+66 | Groceries | unsure
+67 | Groceries | sure
+68 | Fees | sure
+
+TOTALS
+Groceries: $461.02
+Dining: $254.09
+Transport: $83.44
+Subscriptions: $55.44
+Rent & Utilities: $828.78
+Shopping: $205.90
+Health: $63.93
+Entertainment: $61.99
+Fees: $38.95
+TOTAL SPENDING: $2,053.54
+
+Not counted: Income $685.27 (two Hudson Dining payroll deposits) and Transfers $364.68 (Venmo $54.86, savings $50.00, Capital One payment $259.82).
+
+Rent and utilities were 40% of spending, and groceries and dining together were 35%.
+
+Two caveats: the Venmo payments are transfers under your rules, but if they covered shared meals or bills, that is spending. And if the Capital One card has charges that aren't in this file, the real total is higher.
+
+RECURRING
+- Rent: $725.00 (Riverview Prop Mgmt, 9/1)
+- Utilities and phone: National Grid $54.90, Charter Spectrum $32.50, Mint Mobile $16.38
+- Subscriptions: ChatGPT $20.00, Netflix $7.99, Amazon Prime $7.49, Spotify $5.99, Patreon $5.00, DoorDash DashPass $4.99, Apple $2.99 and $0.99 (could be iCloud or one-time app purchases)
+- Gym: Planet Fitness $15.00
+- Bank: monthly service fee $4.95
+- Card: Capital One payment $259.82 (a transfer, not spending)
+- Possibly recurring: PayPal *KJ8STUDIO $18.00
+
+Rent, utilities, subscriptions and the gym come to $899.22 a month.
+
+BUDGET
+Check your income first. The only pay in this file is $685.27 (two Hudson Dining paychecks), but $2,418 went out, a gap of about $1,733. Rent alone ($725) is more than both paychecks. If they are your only income, cuts alone can't close that gap, so confirm what is covering the difference: other income, savings, or card balances.
+
+If the income holds, here is a target for October:
+- Groceries $300 (from $461): one main store, with a list.
+- Dining $100 (from $254): no delivery apps. Delivery was $91 over four orders, and coffee was ten visits for $64.
+- Shopping $50 (from $206): Target and Amazon alone were $148.
+- Transport $60 (from $83): three rides cost $44.
+- Subscriptions $45 (from $55): cancel DashPass and Patreon.
+- Health $30 and Entertainment $30.
+- Fees $0: ask the bank to refund the $34 overdraft fee and waive the $4.95 monthly fee. Opting out of debit card overdraft coverage stops fees on card swipes, but not on ACH bills like rent, so have rent in the account before the 1st.
+- Pause the $50 savings transfer until you stop running short.
+
+Rent and utilities stay at about $829. Compared with September, these cuts save about $610 a month, but the total still comes to about $1,444, roughly $760 more than September's paychecks. Income or housing costs are the lever that matters most.

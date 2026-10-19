@@ -1,0 +1,137 @@
+CATEGORIES
+1 | Rent & Utilities | sure
+2 | Transport | sure
+3 | Subscriptions | sure
+4 | Fees | sure
+5 | Shopping | sure
+6 | Groceries | unsure
+7 | Dining | sure
+8 | Groceries | sure
+9 | Dining | sure
+10 | Subscriptions | sure
+11 | Shopping | unsure
+12 | Dining | sure
+13 | Groceries | sure
+14 | Groceries | unsure
+15 | Groceries | sure
+16 | Dining | sure
+17 | Dining | sure
+18 | Shopping | unsure
+19 | Transport | sure
+20 | Transport | sure
+21 | Subscriptions | sure
+22 | Dining | sure
+23 | Dining | sure
+24 | Subscriptions | unsure
+25 | Income | sure
+26 | Subscriptions | sure
+27 | Transfers | sure
+28 | Rent & Utilities | sure
+29 | Entertainment | sure
+30 | Shopping | unsure
+31 | Transfers | sure
+32 | Transfers | sure
+33 | Transport | sure
+34 | Groceries | unsure
+35 | Rent & Utilities | sure
+36 | Dining | sure
+37 | Dining | sure
+38 | Shopping | unsure
+39 | Health | sure
+40 | Transport | sure
+41 | Dining | sure
+42 | Health | unsure
+43 | Subscriptions | unsure
+44 | Dining | sure
+45 | Dining | sure
+46 | Dining | sure
+47 | Dining | sure
+48 | Dining | sure
+49 | Subscriptions | sure
+50 | Groceries | sure
+51 | Dining | sure
+52 | Shopping | unsure
+53 | Dining | sure
+54 | Dining | sure
+55 | Rent & Utilities | sure
+56 | Health | sure
+57 | Transfers | sure
+58 | Dining | unsure
+59 | Dining | sure
+60 | Income | sure
+61 | Dining | sure
+62 | Subscriptions | sure
+63 | Dining | sure
+64 | Entertainment | sure
+65 | Transport | sure
+66 | Groceries | unsure
+67 | Groceries | sure
+68 | Fees | sure
+
+"Unsure" means the charge could fit another category:
+- Target, Walmart, Costco and Amazon: groceries or shopping
+- Stewart's on 9/6: groceries or gas
+- River St Market and Stewart's on 9/24: groceries or dining
+- The two Apple charges: a subscription or a one-time app purchase
+- CVS: health or toiletries/snacks
+- PayPal *KJ8STUDIO: I can't tell what this is
+
+If you tell me what any of these were, I'll redo the totals.
+
+TOTALS
+Rent & Utilities: $828.78 (40%)
+Groceries: $455.49 (22%)
+Dining: $259.62 (13%)
+Shopping: $205.90 (10%)
+Transport: $83.44 (4%)
+Health: $63.93 (3%)
+Entertainment: $61.99 (3%)
+Subscriptions: $55.44 (3%)
+Fees: $38.95 (2%)
+TOTAL SPENDING: $2,053.54
+
+Not counted in spending:
+- Income: +$685.27 (two paychecks)
+- Transfers: $364.68 (Capital One payment $259.82, savings $50.00, Venmo $54.86)
+
+RECURRING
+Bills and memberships:
+Rent (Riverview Prop Mgmt): $725.00, on the 1st
+National Grid (electric/gas): $54.90, on the 12th (the amount varies)
+Spectrum (internet): $32.50, on the 16th
+Planet Fitness: $15.00, on the 17th
+Mint Mobile (phone): $16.38, on the 22nd
+
+Subscriptions ($55.44 total):
+Patreon: $5.00, on the 1st
+Netflix: $7.99, on the 5th
+Spotify: $5.99, on the 9th
+Apple: $0.99, on the 10th
+DoorDash DashPass: $4.99, on the 11th
+Apple: $2.99, on the 18th
+ChatGPT Plus: $20.00, on the 20th
+Amazon Prime: $7.49, on the 26th
+
+Bank:
+Monthly service fee: $4.95, on the 30th
+
+All recurring charges add up to $904.17 a month. That's more than your $685.27 in paychecks, before any food, gas or shopping. The two Apple charges are probably iCloud or app subscriptions, and the subscriptions list in your Apple ID settings will show which.
+
+BUDGET
+In September you spent $1,368.27 more than your paychecks. Rent alone ($725) is more than you earned, so cutting back can't close that gap by itself. Whatever covered the difference (savings, financial aid, family help or the credit card) needs to be part of the plan. These October targets would cut about $440:
+
+Rent & Utilities: $828.78 → $845 (National Grid will probably go up once the heat comes on)
+Groceries: $455.49 → $350 (one planned weekly shop instead of 9 trips to 8 stores)
+Dining: $259.62 → $150 (September had 10 coffee runs for $64 and 4 delivery orders for $91)
+Shopping: $205.90 → $100 (Target and Amazon alone were $148)
+Transport: $83.44 → $70 (3 Lyft/Uber rides cost $44)
+Entertainment: $61.99 → $40
+Subscriptions: $55.44 → $30 (ChatGPT Plus and DashPass are $25 of it, and only half your delivery orders were on DoorDash)
+Health: $63.93 → $30 (the urgent care visit was a one-off)
+Fees: $38.95 → $0
+Total: $2,053.54 → $1,615, which is still about $930 more than your paychecks
+
+Three fixes:
+- Overdraft fee: the $34 fee on 9/2 was for something that posted 9/1. That's the day rent came out, 10 days before your first paycheck. Keep enough in checking to cover rent, link your savings account as overdraft backup, and ask the bank to refund the $34. Banks often refund a first overdraft fee if you ask.
+- Monthly fee: ask the bank how to get the $4.95 fee waived, or switch to a free checking account.
+- Credit card: check that the $259.82 Capital One payment was the full statement balance. If it wasn't, the shortfall is building up as card debt with interest.

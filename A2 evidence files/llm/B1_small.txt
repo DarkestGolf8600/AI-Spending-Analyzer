@@ -1,0 +1,129 @@
+CATEGORIES
+1 | Rent & Utilities | sure
+2 | Transport | sure
+3 | Subscriptions | sure
+4 | Fees | sure
+5 | Shopping | sure
+6 | Groceries | unsure
+7 | Dining | sure
+8 | Groceries | sure
+9 | Dining | sure
+10 | Subscriptions | sure
+11 | Shopping | sure
+12 | Dining | sure
+13 | Groceries | sure
+14 | Groceries | unsure
+15 | Groceries | sure
+16 | Dining | sure
+17 | Dining | sure
+18 | Shopping | unsure
+19 | Transport | sure
+20 | Transport | sure
+21 | Subscriptions | sure
+22 | Dining | sure
+23 | Dining | sure
+24 | Subscriptions | sure
+25 | Income | sure
+26 | Subscriptions | sure
+27 | Transfers | sure
+28 | Rent & Utilities | sure
+29 | Entertainment | sure
+30 | Shopping | sure
+31 | Transfers | sure
+32 | Transfers | sure
+33 | Transport | sure
+34 | Groceries | unsure
+35 | Rent & Utilities | sure
+36 | Dining | sure
+37 | Dining | sure
+38 | Shopping | unsure
+39 | Health | sure
+40 | Transport | sure
+41 | Dining | sure
+42 | Health | unsure
+43 | Subscriptions | sure
+44 | Dining | sure
+45 | Dining | sure
+46 | Dining | sure
+47 | Dining | sure
+48 | Dining | sure
+49 | Subscriptions | sure
+50 | Groceries | sure
+51 | Dining | sure
+52 | Shopping | unsure
+53 | Dining | sure
+54 | Dining | sure
+55 | Rent & Utilities | sure
+56 | Health | sure
+57 | Transfers | sure
+58 | Groceries | unsure
+59 | Dining | sure
+60 | Income | sure
+61 | Dining | sure
+62 | Subscriptions | sure
+63 | Dining | sure
+64 | Entertainment | sure
+65 | Transport | sure
+66 | Groceries | unsure
+67 | Groceries | sure
+68 | Fees | sure
+
+Unsure: lines 6, 14, 18, 34, 38, 42, 52, 58 and 66. Most are mixed stores (Target, Walmart, Costco, Stewart's) or merchants I couldn't identify (River St Market, PayPal *KJ8STUDIO, CVS).
+
+TOTALS
+Rent & Utilities: $828.78 (40.4%)
+Groceries: $461.02 (22.4%)
+Dining: $254.09 (12.4%)
+Shopping: $205.90 (10.0%)
+Transport: $83.44 (4.1%)
+Health: $63.93 (3.1%)
+Entertainment: $61.99 (3.0%)
+Subscriptions: $55.44 (2.7%)
+Fees: $38.95 (1.9%)
+
+TOTAL SPENDING: $2,053.54
+
+Not counted: Income $685.27 (paychecks on 9/11 and 9/25). Transfers $364.68: Capital One payment $259.82, Venmo $54.86, savings $50.00. If any Venmo went to shared bills or meals, that is real spending the total leaves out.
+
+RECURRING
+Bills
+- Rent, Riverview Property Management: $725.00
+- National Grid (gas/electric): $54.90, varies by season
+- Charter Spectrum (internet): $32.50
+- Mint Mobile (phone): $16.38
+
+Subscriptions and memberships
+- ChatGPT: $20.00
+- Planet Fit Club (gym): $15.00
+- Netflix: $7.99
+- Amazon Prime: $7.49
+- Spotify: $5.99
+- Patreon: $5.00
+- DoorDash DashPass: $4.99
+- Apple: $2.99 (9/18) and $0.99 (9/10). They're about a week apart, so one may be a one-time purchase.
+
+Bank
+- Monthly service fee: $4.95
+
+Confirmed recurring total: $904.17 a month, $725 of it rent.
+
+Check these
+- PayPal *KJ8STUDIO, $18.00 (9/17): could be a subscription or a one-off purchase
+- Capital One card payment, $259.82 (9/24): a monthly bill, but counted under Transfers
+
+BUDGET
+The numbers don't reconcile, so check this first. Money in was $685 (two paychecks). Money out was $2,418: $2,054 of spending plus $365 of transfers. That leaves about $1,730 unexplained. Either there is income or a balance that isn't in this file, or some of these charges are on a credit card and will be paid later. The answer changes every target below.
+
+Limits for October, with September in brackets:
+- Groceries: $350 ($461). One big trip a week. Skip the Stewart's and Walmart top-ups.
+- Dining: $150 ($254). Coffee was $64 across 10 visits, so aim for about 4. Delivery was $91 across 4 orders, so allow 1 or 2.
+- Shopping: $100 ($206)
+- Transport: $60 ($83). Rideshares were $44 across 3 rides, so save them for late nights.
+- Health and gym: $50 ($64)
+- Entertainment: $40 ($62)
+- Subscriptions: $40 ($55). Patreon, DashPass and the Apple charges are the easy cuts.
+- Fees: $0 ($39). Ask the bank to refund the $34 overdraft fee and waive the $4.95 monthly fee.
+- Rent and utilities: about $829, fixed. Rent posts on the 1st, before your paychecks, so set it aside from the previous paycheck.
+- Savings: keep the $50 transfer, but make it on payday, before spending.
+
+These limits add up to about $1,620 a month, against about $685 of pay (two paychecks, if the schedule holds). October is already past the halfway point, so start now and carry the limits into November. Tell me your full take-home pay and any other income, and I'll rebuild the plan around that.

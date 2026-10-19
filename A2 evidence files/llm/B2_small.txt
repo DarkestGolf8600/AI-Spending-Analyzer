@@ -1,0 +1,120 @@
+CATEGORIES
+1 | Rent & Utilities | sure
+2 | Transport | sure
+3 | Subscriptions | sure
+4 | Fees | sure
+5 | Shopping | sure
+6 | Groceries | unsure
+7 | Dining | sure
+8 | Groceries | sure
+9 | Dining | sure
+10 | Subscriptions | sure
+11 | Shopping | sure
+12 | Dining | sure
+13 | Groceries | sure
+14 | Groceries | unsure
+15 | Groceries | sure
+16 | Dining | sure
+17 | Dining | sure
+18 | Shopping | unsure
+19 | Transport | sure
+20 | Transport | sure
+21 | Subscriptions | sure
+22 | Dining | sure
+23 | Dining | sure
+24 | Subscriptions | sure
+25 | Income | sure
+26 | Subscriptions | sure
+27 | Transfers | sure
+28 | Rent & Utilities | sure
+29 | Entertainment | sure
+30 | Shopping | sure
+31 | Transfers | sure
+32 | Transfers | sure
+33 | Transport | sure
+34 | Groceries | unsure
+35 | Rent & Utilities | sure
+36 | Dining | sure
+37 | Dining | sure
+38 | Shopping | unsure
+39 | Health | sure
+40 | Transport | sure
+41 | Dining | sure
+42 | Health | unsure
+43 | Subscriptions | sure
+44 | Dining | sure
+45 | Dining | sure
+46 | Dining | sure
+47 | Dining | sure
+48 | Dining | sure
+49 | Subscriptions | sure
+50 | Groceries | sure
+51 | Dining | sure
+52 | Shopping | unsure
+53 | Dining | sure
+54 | Dining | sure
+55 | Rent & Utilities | sure
+56 | Health | sure
+57 | Transfers | sure
+58 | Groceries | unsure
+59 | Dining | sure
+60 | Income | sure
+61 | Dining | sure
+62 | Subscriptions | sure
+63 | Dining | sure
+64 | Entertainment | sure
+65 | Transport | sure
+66 | Groceries | unsure
+67 | Groceries | sure
+68 | Fees | sure
+
+Unsure = multi-purpose stores (Target, Walmart, Costco, Stewart's, CVS, River St Market) or an unclear merchant (PayPal *KJ8STUDIO).
+
+TOTALS
+Rent & Utilities: $828.78
+Groceries: $461.02
+Dining: $254.09
+Shopping: $205.90
+Transport: $83.44
+Health: $63.93
+Entertainment: $61.99
+Subscriptions: $55.44
+Fees: $38.95
+TOTAL SPENDING: $2,053.54
+
+Not counted: income $685.27 in, and transfers $364.68 out (Capital One $259.82, Venmo $54.86, savings $50.00). If any Venmo went to food or shared bills, move it into spending.
+
+RECURRING
+Bills: $833.73 a month
+- Rent, Riverview Prop Mgmt: $725.00 (9/1)
+- National Grid (gas/electric): $54.90 (9/12)
+- Charter Spectrum (internet/cable): $32.50 (9/16)
+- Mint Mobile (phone): $16.38 (9/22)
+- Bank monthly service fee: $4.95 (9/30)
+
+Subscriptions and memberships: $70.44 a month
+- ChatGPT: $20.00 (9/20)
+- Planet Fit Club (gym): $15.00 (9/17)
+- Netflix: $7.99 (9/5)
+- Amazon Prime: $7.49 (9/26)
+- Spotify: $5.99 (9/9)
+- Patreon: $5.00 (9/1)
+- DoorDash DashPass: $4.99 (9/11)
+- Apple: $2.99 (9/18) and $0.99 (9/10)
+
+Total recurring: $904.17 a month.
+
+Not in that total: the Capital One card payment of $259.82 (9/24) is also a monthly bill, but it's filed under Transfers. The PayPal *KJ8STUDIO charge ($18.00, 9/17) may repeat too, but its merchant name doesn't say what it is.
+
+BUDGET
+- Check your full income first. Money out exceeded money in by $1,733 with transfers included ($2,418.22 out against $685.27 in). Unless you had a large starting balance or other deposits outside this file, the cuts below won't close that gap on their own.
+- Protect rent day. The $34 overdraft fee (9/2) was for an item posted 9/1, before your first paycheck on 9/11, so the account likely dipped below zero when rent cleared. Have rent plus a cushion in checking by the 1st, ask the bank to waive the fee, and check what waives the $4.95 service fee. Keep the $50 savings transfer only once that cushion is in place. Target: $0 in fees.
+- Groceries: $325 (from $461). That was 10 trips, so plan about four bigger runs from a list.
+- Dining: $175 (from $254). Coffee was $64 over 10 visits, and delivery was $91 over four orders plus $5 for DashPass. Keep delivery to about one order a month.
+- Shopping: $125 (from $206). Two Target trips and two Amazon orders made up $148 of it.
+- Transport: $70 (from $83). Rideshares cost $44 over three rides, so use the CDTA bus when you can.
+- Subscriptions: $50 (from $55). Cancel one or two you don't use. Patreon, DashPass, or one of the Apple charges are the easiest.
+- Entertainment: $50 (from $62).
+- Health: $60, including the gym.
+- Rent and utilities: about $830 (about 40% of spending). Heating season will push National Grid up, so leave room.
+- Total: about $1,685, roughly $370 less than September's $2,054. We're past mid-October, so start applying these now.
