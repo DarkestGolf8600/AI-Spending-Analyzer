@@ -1,0 +1,215 @@
+source_id,description,amount,category,note,status,authority,scope,effective_date,owner,text
+RM-001,VENMO PAYMENT 4410982231 WEB ID: 3264681992,-412.5,Rent & Utilities,roommate's rent share,current,student_confirmed,roommate,2026-07-01,roommate,VENMO PAYMENT
+L-001,ACH DEBIT RIVERVIEW PROP MGMT RENT 0726,-725.0,Rent & Utilities,,current,student_confirmed,student,2026-07-01,student,ACH DEBIT RIVERVIEW PROP MGMT RENT
+L-002,PATREON* MEMBERSHIP INTERNET CA,-5.0,Subscriptions,,current,student_confirmed,student,2026-07-01,student,PATREON * MEMBERSHIP INTERNET CA
+L-003,POS PURCHASE TST* LITTLE MOMO TROY NY,-18.91,Dining,,current,student_confirmed,student,2026-07-01,student,TST * LITTLE MOMO TROY NY
+L-004,CHECKCARD 0703 LYFT *RIDE FRI 11PM LYFT.COM CA 65565592430,-17.04,Transport,,current,student_confirmed,student,2026-07-03,student,LYFT * RIDE FRI LYFT.COM CA
+L-005,DIRECT DEP HUDSON DINING SVC PAYROLL PPD ID: 9145667201,314.72,Income,,current,student_confirmed,student,2026-07-03,student,DIRECT DEP HUDSON DINING SVC PAYROLL
+L-006,STEWARTS SHOP 345 TROY NY,-25.64,Transport,gas,current,student_confirmed,student,2026-07-03,student,STEWARTS SHOP TROY NY
+L-007,VENMO PAYMENT 3787076238 WEB ID: 3264681992,-25.94,Transfers,,current,student_confirmed,student,2026-07-04,student,VENMO PAYMENT
+L-008,CHECKCARD 0705 NETFLIX.COM LOS GATOS CA 34085170389,-7.99,Subscriptions,,current,student_confirmed,student,2026-07-05,student,NETFLIX.COM LOS GATOS CA
+L-009,CHECKCARD 0705 PRICE CHOPPER #172 TROY NY 32873888071,-49.45,Groceries,,current,student_confirmed,student,2026-07-05,student,PRICE CHOPPER TROY NY
+L-010,CHECKCARD 0705 STARBUCKS STORE 08812 TROY NY 40115278463,-6.23,Dining,,current,student_confirmed,student,2026-07-05,student,STARBUCKS STORE TROY NY
+L-011,CHECKCARD 0706 TARGET T-1849 LATHAM NY 64499509579,-20.27,Groceries,food run,current,student_confirmed,student,2026-07-06,student,TARGET LATHAM NY
+L-012,ALDI 76012 LATHAM NY,-53.6,Groceries,,current,student_confirmed,student,2026-07-07,student,ALDI LATHAM NY
+L-013,SQ *KOPI KOPI TROY NY,-9.36,Dining,,current,student_confirmed,student,2026-07-07,student,SQ * KOPI KOPI TROY NY
+L-014,CITY OF TROY PARKING TROY NY,-3.37,Transport,,current,student_confirmed,student,2026-07-08,student,CITY OF TROY PARKING TROY NY
+L-015,POS PURCHASE CHIPOTLE 2817 TROY NY,-12.66,Dining,,current,student_confirmed,student,2026-07-08,student,CHIPOTLE TROY NY
+L-016,CHECKCARD 0709 SPOTIFY USA VLMRE6YDK1 59493893907,-5.99,Subscriptions,,current,student_confirmed,student,2026-07-09,student,SPOTIFY USA
+L-017,CHECKCARD 0709 UBER *TRIP HELP.UBER.COM CA 76283010851,-9.98,Transport,,current,student_confirmed,student,2026-07-09,student,UBER * TRIP HELP.UBER.COM CA
+L-018,POS PURCHASE PLAYSTATION NETWORK SAN MATEO CA,-9.99,Entertainment,,current,student_confirmed,student,2026-07-09,student,PLAYSTATION NETWORK SAN MATEO CA
+L-019,POS PURCHASE SQ *THE BRICK OVEN TROY NY,-14.15,Dining,,current,student_confirmed,student,2026-07-09,student,SQ * THE BRICK OVEN TROY NY
+L-020,POS PURCHASE DUNKIN #351245 Q35 TROY NY,-6.18,Dining,,current,student_confirmed,student,2026-07-10,student,DUNKIN TROY NY
+L-021,AMAZON.COM*QQQLTT9A7 AMZN.COM/BILL WA,-64.15,Shopping,,current,student_confirmed,student,2026-07-11,student,AMAZON.COM * AMZN.COM/BILL WA
+L-022,DOORDASH*DASHPASS SAN FRANCISCO CA,-4.99,Subscriptions,DashPass student plan,current,student_confirmed,student,2026-07-11,student,DOORDASH * DASHPASS SAN FRANCISCO CA
+L-023,POS PURCHASE BAGEL GROOVE INC TROY NY,-8.46,Dining,,current,student_confirmed,student,2026-07-11,student,BAGEL GROOVE INC TROY NY
+L-024,PURCHASE AUTHORIZED ON 07/11 SHELL OIL 57444279 TROY NY CARD 4821,-35.93,Transport,,current,student_confirmed,student,2026-07-11,student,SHELL OIL TROY NY
+L-025,PURCHASE AUTHORIZED ON 07/11 STARBUCKS STORE 23104 ALBANY NY CARD 4821,-4.41,Dining,,current,student_confirmed,student,2026-07-11,student,STARBUCKS STORE ALBANY NY
+L-026,STARBUCKS STORE 08812 TROY NY,-6.38,Dining,,current,student_confirmed,student,2026-07-11,student,STARBUCKS STORE TROY NY
+L-027,STARBUCKS STORE 08812 TROY NY,-5.2,Dining,,current,student_confirmed,student,2026-07-11,student,STARBUCKS STORE TROY NY
+L-028,CHECKCARD 0712 PANERA BREAD #600712 LATHAM NY 53245999945,-9.64,Dining,,current,student_confirmed,student,2026-07-12,student,PANERA BREAD LATHAM NY
+L-029,NATIONAL GRID NY WEB PMT,-38.12,Rent & Utilities,,current,student_confirmed,student,2026-07-12,student,NATIONAL GRID NY WEB PMT
+L-030,PURCHASE AUTHORIZED ON 07/12 GRUBHUB*BIGMOOSEDELI CARD 4821,-21.35,Dining,,current,student_confirmed,student,2026-07-12,student,GRUBHUB * BIGMOOSEDELI
+L-031,WM SUPERCENTER #2341 TROY NY,-25.77,Groceries,food run,current,student_confirmed,student,2026-07-14,student,WM SUPERCENTER TROY NY
+L-032,DUNKIN #351245 Q35 TROY NY,-6.35,Dining,,current,student_confirmed,student,2026-07-15,student,DUNKIN TROY NY
+L-033,MCDONALD'S F3324 LATHAM NY,-8.03,Dining,,current,student_confirmed,student,2026-07-15,student,MCDONALD'S LATHAM NY
+L-034,ONLINE TRANSFER TO SAV XXXXXX4821 REF #8J2QAQD1,-50.0,Transfers,,current,student_confirmed,student,2026-07-15,student,ONLINE TRANSFER TO SAV
+L-035,STARBUCKS STORE 23104 ALBANY NY,-6.82,Dining,,current,student_confirmed,student,2026-07-15,student,STARBUCKS STORE ALBANY NY
+L-036,CHARTER SPECTRUM ONLINE PMT,-32.5,Rent & Utilities,,current,student_confirmed,student,2026-07-16,student,CHARTER SPECTRUM ONLINE PMT
+L-037,CHECKCARD 0716 CVS/PHARMACY #01234 TROY NY 40310111733,-22.1,Health,allergy meds,current,student_confirmed,student,2026-07-16,student,CVS/PHARMACY TROY NY
+L-038,DIRECT DEP HUDSON DINING SVC PAYROLL PPD ID: 9145667201,440.6,Income,,current,student_confirmed,student,2026-07-17,student,DIRECT DEP HUDSON DINING SVC PAYROLL
+BK-039,PURCHASE AUTHORIZED ON 07/17 PLANET FIT CLUB FEES TROY NY CARD 4821,-15.0,Fees,bank category: Fees & Charges,current,,student,2026-07-17,nobody (bank import),PLANET FIT CLUB FEES TROY NY
+L-039,PURCHASE AUTHORIZED ON 07/17 PLANET FIT CLUB FEES TROY NY CARD 4821,-15.0,Health,gym membership,current,student_confirmed,student,2026-07-17,student,PLANET FIT CLUB FEES TROY NY
+L-040,CHECKCARD 0718 APPLE.COM/BILL CUPERTINO CA 28353369814,-2.99,Subscriptions,iCloud+ 50GB plan,current,student_confirmed,student,2026-07-18,student,APPLE.COM/BILL CUPERTINO CA
+L-041,CHECKCARD 0718 DOORDASH*THAI THANI SAN FRANCISCO CA 14429558568,-25.46,Dining,,current,student_confirmed,student,2026-07-18,student,DOORDASH * THAI THANI SAN FRANCISCO CA
+L-042,SQ *KOPI KOPI TROY NY,-8.93,Dining,,current,student_confirmed,student,2026-07-18,student,SQ * KOPI KOPI TROY NY
+L-043,AMC ONLINE #4012 LEAWOOD KS,-15.99,Entertainment,,current,student_confirmed,student,2026-07-19,student,AMC ONLINE LEAWOOD KS
+L-044,CHECKCARD 0719 CHIPOTLE 2817 TROY NY 18251153672,-13.93,Dining,,current,student_confirmed,student,2026-07-19,student,CHIPOTLE TROY NY
+L-045,CHECKCARD 0719 SQ *RIVER ST MARKET TROY NY 99034266206,-15.41,Groceries,,current,student_confirmed,student,2026-07-19,student,SQ * RIVER ST MARKET TROY NY
+L-046,DD *DOORDASH SUSHIKING,-28.21,Dining,,current,student_confirmed,student,2026-07-20,student,DD * DOORDASH SUSHIKING
+L-047,POS PURCHASE OPENAI *CHATGPT SUBSCR SAN FRANCISCO CA,-20.0,Subscriptions,,current,student_confirmed,student,2026-07-20,student,OPENAI * CHATGPT SUBSCR SAN FRANCISCO CA
+L-048,STARBUCKS STORE 23104 ALBANY NY,-5.48,Dining,,current,student_confirmed,student,2026-07-20,student,STARBUCKS STORE ALBANY NY
+L-049,CHECKCARD 0721 TARGET T-1849 LATHAM NY 81189150686,-63.13,Shopping,apartment / dorm stuff,current,student_confirmed,student,2026-07-21,student,TARGET LATHAM NY
+L-050,CHECKCARD 0721 UBER *EATS HELP.UBER.COM CA 17885768586,-22.08,Dining,,current,student_confirmed,student,2026-07-21,student,UBER * EATS HELP.UBER.COM CA
+L-051,MINT MOBILE MINTMOBILE.COM CA,-16.38,Rent & Utilities,,current,student_confirmed,student,2026-07-22,student,MINT MOBILE MINTMOBILE.COM CA
+L-052,CAPITAL ONE MOBILE PMT,-190.86,Transfers,,current,student_confirmed,student,2026-07-24,student,CAPITAL ONE MOBILE PMT
+L-053,PURCHASE AUTHORIZED ON 07/24 UBER *TRIP HELP.UBER.COM CA CARD 4821,-16.44,Transport,,current,student_confirmed,student,2026-07-24,student,UBER * TRIP HELP.UBER.COM CA
+L-054,TRADER JOE S #551 ALBANY NY,-46.72,Groceries,,current,student_confirmed,student,2026-07-24,student,TRADER JOE S ALBANY NY
+L-055,POS PURCHASE STEWARTS SHOP 345 TROY NY,-5.63,Dining,ice cream / coffee,current,student_confirmed,student,2026-07-25,student,STEWARTS SHOP TROY NY
+V-056a,AMAZON PRIME*VP2Y93EMV AMZN.COM/BILL WA,-7.49,Shopping,"first label, changed later",superseded,student_confirmed,student,2026-07-26,student,AMAZON PRIME * AMZN.COM/BILL WA
+L-056,AMAZON PRIME*VP2Y93EMV AMZN.COM/BILL WA,-7.49,Subscriptions,Prime Student,current,student_confirmed,student,2026-07-30,student,AMAZON PRIME * AMZN.COM/BILL WA
+L-057,CHECKCARD 0727 CDTA MOBILE TICKET ALBANY NY 68584205226,-1.5,Transport,,current,student_confirmed,student,2026-07-27,student,CDTA MOBILE TICKET ALBANY NY
+L-058,LATE PAYMENT FEE,-29.0,Fees,,current,student_confirmed,student,2026-07-27,student,LATE PAYMENT FEE
+L-059,POS PURCHASE AMZN MKTP US*NSW0TGPW3 AMZN.COM/BILL WA,-59.21,Shopping,,current,student_confirmed,student,2026-07-28,student,AMZN MKTP US * AMZN.COM/BILL WA
+L-060,PURCHASE AUTHORIZED ON 07/28 AMAZON.COM*R5SMNLQPQ AMZN.COM/BILL WA CARD 4821,-39.54,Shopping,,current,student_confirmed,student,2026-07-28,student,AMAZON.COM * AMZN.COM/BILL WA
+L-061,PURCHASE AUTHORIZED ON 07/28 ETSY.COM - LEAFANDLOOM BROOKLYN NY CARD 4821,-24.0,Shopping,,current,student_confirmed,student,2026-07-28,student,ETSY.COM - LEAFANDLOOM BROOKLYN NY
+L-062,CHECKCARD 0729 PRICE CHOPPER #172 TROY NY 89961584092,-48.23,Groceries,,current,student_confirmed,student,2026-07-29,student,PRICE CHOPPER TROY NY
+L-063,CHECKCARD 0730 HANNAFORD #8212 TROY NY 45433908524,-52.42,Groceries,,current,student_confirmed,student,2026-07-30,student,HANNAFORD TROY NY
+L-064,VENMO PAYMENT 5999618599 WEB ID: 3264681992,-41.52,Transfers,,current,student_confirmed,student,2026-07-30,student,VENMO PAYMENT
+L-065,DIRECT DEP HUDSON DINING SVC PAYROLL PPD ID: 9145667201,379.06,Income,,current,student_confirmed,student,2026-07-31,student,DIRECT DEP HUDSON DINING SVC PAYROLL
+L-066,MONTHLY SERVICE FEE,-4.95,Fees,,current,student_confirmed,student,2026-07-31,student,MONTHLY SERVICE FEE
+L-067,ACH DEBIT RIVERVIEW PROP MGMT RENT 0826,-725.0,Rent & Utilities,,current,student_confirmed,student,2026-08-01,student,ACH DEBIT RIVERVIEW PROP MGMT RENT
+L-068,POS PURCHASE PATREON* MEMBERSHIP INTERNET CA,-5.0,Subscriptions,,current,student_confirmed,student,2026-08-01,student,PATREON * MEMBERSHIP INTERNET CA
+L-069,CHIPOTLE 2817 TROY NY,-13.74,Dining,,current,student_confirmed,student,2026-08-02,student,CHIPOTLE TROY NY
+L-070,POS PURCHASE DUNKIN #351245 Q35 TROY NY,-6.34,Dining,,current,student_confirmed,student,2026-08-02,student,DUNKIN TROY NY
+L-071,PURCHASE AUTHORIZED ON 08/02 WALGREENS #12345 TROY NY CARD 4821,-12.49,Health,,current,student_confirmed,student,2026-08-02,student,WALGREENS TROY NY
+L-072,CHECKCARD 0803 DUNKIN #351245 Q35 TROY NY 10783766883,-5.36,Dining,,current,student_confirmed,student,2026-08-03,student,DUNKIN TROY NY
+L-073,POS PURCHASE APPLE.COM/BILL CUPERTINO CA,-4.99,Entertainment,in-app purchase in a game,current,student_confirmed,student,2026-08-03,student,APPLE.COM/BILL CUPERTINO CA
+L-074,PURCHASE AUTHORIZED ON 08/03 BAGEL GROOVE INC TROY NY CARD 4821,-8.53,Dining,,current,student_confirmed,student,2026-08-03,student,BAGEL GROOVE INC TROY NY
+L-075,TARGET T-1849 LATHAM NY,-22.51,Groceries,food run,current,student_confirmed,student,2026-08-04,student,TARGET LATHAM NY
+L-076,POS PURCHASE NETFLIX.COM LOS GATOS CA,-7.99,Subscriptions,,current,student_confirmed,student,2026-08-05,student,NETFLIX.COM LOS GATOS CA
+L-077,POS PURCHASE STARBUCKS STORE 08812 TROY NY,-5.29,Dining,,current,student_confirmed,student,2026-08-05,student,STARBUCKS STORE TROY NY
+L-078,POS PURCHASE DUNKIN #351245 Q35 TROY NY,-6.47,Dining,,current,student_confirmed,student,2026-08-06,student,DUNKIN TROY NY
+L-079,PAYPAL *EBAY INC SAN JOSE CA,-31.5,Shopping,,current,student_confirmed,student,2026-08-07,student,PAYPAL * EBAY INC SAN JOSE CA
+L-080,SQ *KOPI KOPI TROY NY,-6.83,Dining,,current,student_confirmed,student,2026-08-07,student,SQ * KOPI KOPI TROY NY
+L-081,CHECKCARD 0808 STEWARTS SHOP 345 TROY NY 50423871012,-5.67,Dining,ice cream / coffee,current,student_confirmed,student,2026-08-08,student,STEWARTS SHOP TROY NY
+L-082,POS PURCHASE DUNKIN #351245 Q35 TROY NY,-4.71,Dining,,current,student_confirmed,student,2026-08-08,student,DUNKIN TROY NY
+L-083,CDTA MOBILE TICKET ALBANY NY,-1.5,Transport,,current,student_confirmed,student,2026-08-09,student,CDTA MOBILE TICKET ALBANY NY
+L-084,CHECKCARD 0809 SPOTIFY USA LT3S0WY545 39120864904,-5.99,Subscriptions,,current,student_confirmed,student,2026-08-09,student,SPOTIFY USA
+L-085,COSTCO WHSE #1088 COLONIE NY,-84.2,Groceries,bulk food,current,student_confirmed,student,2026-08-09,student,COSTCO WHSE COLONIE NY
+L-086,STARBUCKS STORE 23104 ALBANY NY,-4.82,Dining,,current,student_confirmed,student,2026-08-10,student,STARBUCKS STORE ALBANY NY
+L-087,VENMO CASHOUT PPD ID: 5264681992,40.0,Transfers,,current,student_confirmed,student,2026-08-10,student,VENMO CASHOUT
+L-088,CHECKCARD 0811 UBER *TRIP HELP.UBER.COM CA 26906148766,-20.55,Transport,,current,student_confirmed,student,2026-08-11,student,UBER * TRIP HELP.UBER.COM CA
+L-089,DOORDASH*DASHPASS SAN FRANCISCO CA,-4.99,Subscriptions,DashPass student plan,current,student_confirmed,student,2026-08-11,student,DOORDASH * DASHPASS SAN FRANCISCO CA
+L-090,POS PURCHASE UBER *EATS HELP.UBER.COM CA,-25.79,Dining,,current,student_confirmed,student,2026-08-11,student,UBER * EATS HELP.UBER.COM CA
+L-091,POS PURCHASE CVS/PHARMACY #01234 TROY NY,-9.48,Shopping,toiletries,current,student_confirmed,student,2026-08-12,student,CVS/PHARMACY TROY NY
+L-092,AMZN MKTP US*N8N6V7BMA AMZN.COM/BILL WA,-20.35,Shopping,,current,student_confirmed,student,2026-08-13,student,AMZN MKTP US * AMZN.COM/BILL WA
+L-093,ATM FEE NON-NETWORK 0813,-3.0,Fees,,current,student_confirmed,student,2026-08-13,student,ATM FEE NON-NETWORK
+L-094,CHECKCARD 0813 STARBUCKS STORE 23104 ALBANY NY 91903299395,-7.27,Dining,,current,student_confirmed,student,2026-08-13,student,STARBUCKS STORE ALBANY NY
+L-095,POS PURCHASE DOORDASH*SLICE OF TROY SAN FRANCISCO CA,-26.76,Dining,,current,student_confirmed,student,2026-08-13,student,DOORDASH * SLICE OF TROY SAN FRANCISCO CA
+L-096,PURCHASE AUTHORIZED ON 08/13 SQ *RIVER ST MARKET TROY NY CARD 4821,-9.01,Groceries,,current,student_confirmed,student,2026-08-13,student,SQ * RIVER ST MARKET TROY NY
+L-097,DIRECT DEP HUDSON DINING SVC PAYROLL PPD ID: 9145667201,380.44,Income,,current,student_confirmed,student,2026-08-14,student,DIRECT DEP HUDSON DINING SVC PAYROLL
+L-098,NATIONAL GRID NY WEB PMT,-61.47,Rent & Utilities,,current,student_confirmed,student,2026-08-14,student,NATIONAL GRID NY WEB PMT
+L-099,POS PURCHASE SQ *KOPI KOPI TROY NY,-7.11,Dining,,current,student_confirmed,student,2026-08-14,student,SQ * KOPI KOPI TROY NY
+L-100,AMTRAK .COM 2650614112,-47.0,Transport,,current,student_confirmed,student,2026-08-15,student,AMTRAK .COM
+L-101,ONLINE TRANSFER TO SAV XXXXXX4821 REF #WDHM9NPL,-50.0,Transfers,,current,student_confirmed,student,2026-08-15,student,ONLINE TRANSFER TO SAV
+L-102,CHARTER SPECTRUM ONLINE PMT,-32.5,Rent & Utilities,,current,student_confirmed,student,2026-08-16,student,CHARTER SPECTRUM ONLINE PMT
+L-103,MTA*NYCT PAYGO NEW YORK NY,-2.9,Transport,,current,student_confirmed,student,2026-08-16,student,MTA * NYCT PAYGO NEW YORK NY
+L-104,PANERA BREAD #600712 LATHAM NY,-9.53,Dining,,current,student_confirmed,student,2026-08-16,student,PANERA BREAD LATHAM NY
+L-105,PRICE CHOPPER #172 TROY NY,-24.03,Groceries,,current,student_confirmed,student,2026-08-16,student,PRICE CHOPPER TROY NY
+L-106,CHECKCARD 0817 PLANET FIT CLUB FEES TROY NY 25860741191,-15.0,Health,gym membership,current,student_confirmed,student,2026-08-17,student,PLANET FIT CLUB FEES TROY NY
+L-107,APPLE.COM/BILL CUPERTINO CA,-2.99,Subscriptions,iCloud+ 50GB plan,current,student_confirmed,student,2026-08-18,student,APPLE.COM/BILL CUPERTINO CA
+L-108,PURCHASE AUTHORIZED ON 08/18 MTA*NYCT PAYGO NEW YORK NY CARD 4821,-2.9,Transport,,current,student_confirmed,student,2026-08-18,student,MTA * NYCT PAYGO NEW YORK NY
+L-109,CHECKCARD 0819 BEST BUY 00014562 COLONIE NY 27258327696,-59.99,Shopping,headphones,current,student_confirmed,student,2026-08-19,student,BEST BUY COLONIE NY
+L-110,PURCHASE AUTHORIZED ON 08/19 MCDONALD'S F3324 LATHAM NY CARD 4821,-7.98,Dining,,current,student_confirmed,student,2026-08-19,student,MCDONALD'S LATHAM NY
+L-111,STARBUCKS STORE 23104 ALBANY NY,-5.29,Dining,,current,student_confirmed,student,2026-08-19,student,STARBUCKS STORE ALBANY NY
+L-112,CHECKCARD 0820 OPENAI *CHATGPT SUBSCR SAN FRANCISCO CA 61080673657,-20.0,Subscriptions,,current,student_confirmed,student,2026-08-20,student,OPENAI * CHATGPT SUBSCR SAN FRANCISCO CA
+L-113,CITY OF TROY PARKING TROY NY,-2.48,Transport,,current,student_confirmed,student,2026-08-20,student,CITY OF TROY PARKING TROY NY
+L-114,POS PURCHASE CITY OF TROY PARKING VIOLATION TROY NY,-30.0,Fees,parking ticket,current,student_confirmed,student,2026-08-20,student,CITY OF TROY PARKING VIOLATION TROY NY
+L-115,TST* LITTLE MOMO TROY NY,-20.69,Dining,,current,student_confirmed,student,2026-08-20,student,TST * LITTLE MOMO TROY NY
+L-116,ALDI 76012 LATHAM NY,-34.42,Groceries,,current,student_confirmed,student,2026-08-22,student,ALDI LATHAM NY
+L-117,CHECKCARD 0822 TST* SMOKEHOUSE 518 TROY NY 67541565116,-27.8,Dining,,current,student_confirmed,student,2026-08-22,student,TST * SMOKEHOUSE TROY NY
+L-118,MINT MOBILE MINTMOBILE.COM CA,-16.38,Rent & Utilities,,current,student_confirmed,student,2026-08-22,student,MINT MOBILE MINTMOBILE.COM CA
+L-119,SHELL OIL 57444279 TROY NY,-39.69,Transport,,current,student_confirmed,student,2026-08-22,student,SHELL OIL TROY NY
+L-120,PRICE CHOPPER #172 TROY NY,-29.48,Groceries,,current,student_confirmed,student,2026-08-23,student,PRICE CHOPPER TROY NY
+L-121,STEAM PURCHASE SEATTLE WA,-19.99,Entertainment,,current,student_confirmed,student,2026-08-23,student,STEAM PURCHASE SEATTLE WA
+L-122,CAPITAL ONE MOBILE PMT,-123.71,Transfers,,current,student_confirmed,student,2026-08-24,student,CAPITAL ONE MOBILE PMT
+L-123,CHECKCARD 0824 AMZN MKTP US*R8Y3U8UGX AMZN.COM/BILL WA 95257206309,-11.81,Shopping,,current,student_confirmed,student,2026-08-24,student,AMZN MKTP US * AMZN.COM/BILL WA
+L-124,POS PURCHASE DD *DOORDASH SUSHIKING,-22.33,Dining,,current,student_confirmed,student,2026-08-24,student,DD * DOORDASH SUSHIKING
+L-125,VENMO PAYMENT 8733202316 WEB ID: 3264681992,-30.26,Transfers,,current,student_confirmed,student,2026-08-24,student,VENMO PAYMENT
+L-126,POS PURCHASE TARGET T-1849 LATHAM NY,-63.4,Shopping,apartment / dorm stuff,current,student_confirmed,student,2026-08-25,student,TARGET LATHAM NY
+L-127,UBER *TRIP HELP.UBER.COM CA,-11.77,Transport,,current,student_confirmed,student,2026-08-25,student,UBER * TRIP HELP.UBER.COM CA
+L-128,AMAZON PRIME*DH5QTGANT AMZN.COM/BILL WA,-7.49,Subscriptions,Prime Student,current,student_confirmed,student,2026-08-26,student,AMAZON PRIME * AMZN.COM/BILL WA
+L-129,CHECKCARD 0826 STEWARTS SHOP 345 TROY NY 37606360328,-33.59,Transport,gas,current,student_confirmed,student,2026-08-26,student,STEWARTS SHOP TROY NY
+L-130,SQ *THE BRICK OVEN TROY NY,-16.75,Dining,,current,student_confirmed,student,2026-08-26,student,SQ * THE BRICK OVEN TROY NY
+L-131,CHECKCARD 0827 WAL-MART #2341 TROY NY 82190595273,-61.71,Shopping,apartment stuff,current,student_confirmed,student,2026-08-27,student,WAL-MART TROY NY
+L-132,DIRECT DEP HUDSON DINING SVC PAYROLL PPD ID: 9145667201,437.12,Income,,current,student_confirmed,student,2026-08-28,student,DIRECT DEP HUDSON DINING SVC PAYROLL
+L-133,PURCHASE AUTHORIZED ON 08/28 HANNAFORD #8212 TROY NY CARD 4821,-42.99,Groceries,,current,student_confirmed,student,2026-08-28,student,HANNAFORD TROY NY
+L-134,CHECKCARD 0829 SQ *UNCLE SAMS LANES TROY NY 36243408860,-22.0,Entertainment,bowling,current,student_confirmed,student,2026-08-29,student,SQ * UNCLE SAMS LANES TROY NY
+L-135,PURCHASE AUTHORIZED ON 08/29 CHIPOTLE 2817 TROY NY CARD 4821,-13.43,Dining,,current,student_confirmed,student,2026-08-29,student,CHIPOTLE TROY NY
+L-136,PURCHASE AUTHORIZED ON 08/29 STARBUCKS STORE 08812 TROY NY CARD 4821,-6.85,Dining,,current,student_confirmed,student,2026-08-29,student,STARBUCKS STORE TROY NY
+L-137,INSTACART*HANNAFORD SAN FRANCISCO CA,-58.44,Groceries,,current,student_confirmed,student,2026-08-30,student,INSTACART * HANNAFORD SAN FRANCISCO CA
+L-138,PURCHASE AUTHORIZED ON 08/30 STARBUCKS STORE 23104 ALBANY NY CARD 4821,-4.88,Dining,,current,student_confirmed,student,2026-08-30,student,STARBUCKS STORE ALBANY NY
+L-139,CAMPUS BOOKSTORE #0342 TROY NY,-89.5,Shopping,textbook,current,student_confirmed,student,2026-08-31,student,CAMPUS BOOKSTORE TROY NY
+L-140,MONTHLY SERVICE FEE,-4.95,Fees,,current,student_confirmed,student,2026-08-31,student,MONTHLY SERVICE FEE
+L-141,PURCHASE AUTHORIZED ON 08/31 AMAZON.COM*LRYJSDJL6 AMZN.COM/BILL WA CARD 4821,-45.83,Shopping,,current,student_confirmed,student,2026-08-31,student,AMAZON.COM * AMZN.COM/BILL WA
+L-142,PURCHASE AUTHORIZED ON 08/31 LYFT *RIDE MON 9PM LYFT.COM CA CARD 4821,-15.06,Transport,,current,student_confirmed,student,2026-08-31,student,LYFT * RIDE MON LYFT.COM CA
+L-143,VENMO PAYMENT 4224395468 WEB ID: 3264681992,-21.04,Transfers,,current,student_confirmed,student,2026-08-31,student,VENMO PAYMENT
+L-144,ACH DEBIT RIVERVIEW PROP MGMT RENT 0926,-725.0,Rent & Utilities,,current,student_confirmed,student,2026-09-01,student,ACH DEBIT RIVERVIEW PROP MGMT RENT
+L-145,LYFT *RIDE TUE 11PM LYFT.COM CA,-11.93,Transport,,current,student_confirmed,student,2026-09-01,student,LYFT * RIDE TUE LYFT.COM CA
+L-146,POS PURCHASE PATREON* MEMBERSHIP INTERNET CA,-5.0,Subscriptions,,current,student_confirmed,student,2026-09-01,student,PATREON * MEMBERSHIP INTERNET CA
+L-147,OVERDRAFT ITEM FEE FOR ITEM 0901,-34.0,Fees,,current,student_confirmed,student,2026-09-02,student,OVERDRAFT ITEM FEE FOR ITEM
+L-148,POS PURCHASE UNIQLO USA LLC NEW YORK NY,-39.9,Shopping,,current,student_confirmed,student,2026-09-03,student,UNIQLO USA LLC NEW YORK NY
+L-149,PURCHASE AUTHORIZED ON 09/03 SQ *RIVER ST MARKET TROY NY CARD 4821,-9.42,Groceries,,current,student_confirmed,student,2026-09-03,student,SQ * RIVER ST MARKET TROY NY
+L-150,SQ *KOPI KOPI TROY NY,-6.18,Dining,,current,student_confirmed,student,2026-09-03,student,SQ * KOPI KOPI TROY NY
+L-151,CHECKCARD 0904 ALDI 76012 LATHAM NY 98809128596,-56.19,Groceries,,current,student_confirmed,student,2026-09-04,student,ALDI LATHAM NY
+L-152,PANERA BREAD #600712 LATHAM NY,-12.61,Dining,,current,student_confirmed,student,2026-09-05,student,PANERA BREAD LATHAM NY
+L-153,POS PURCHASE NETFLIX.COM LOS GATOS CA,-7.99,Subscriptions,,current,student_confirmed,student,2026-09-05,student,NETFLIX.COM LOS GATOS CA
+L-154,PURCHASE AUTHORIZED ON 09/05 AMAZON.COM*ABNSV6EMV AMZN.COM/BILL WA CARD 4821,-47.53,Shopping,,current,student_confirmed,student,2026-09-05,student,AMAZON.COM * AMZN.COM/BILL WA
+L-155,POS PURCHASE STARBUCKS STORE 23104 ALBANY NY,-6.29,Dining,,current,student_confirmed,student,2026-09-06,student,STARBUCKS STORE ALBANY NY
+L-156,PRICE CHOPPER #172 TROY NY,-74.32,Groceries,,current,student_confirmed,student,2026-09-06,student,PRICE CHOPPER TROY NY
+L-157,STEWARTS SHOP 345 TROY NY,-28.81,Transport,gas,current,student_confirmed,student,2026-09-06,student,STEWARTS SHOP TROY NY
+L-158,TRADER JOE S #551 ALBANY NY,-52.18,Groceries,,current,student_confirmed,student,2026-09-06,student,TRADER JOE S ALBANY NY
+L-159,POS PURCHASE CHIPOTLE 2817 TROY NY,-12.6,Dining,,current,student_confirmed,student,2026-09-07,student,CHIPOTLE TROY NY
+L-160,DUNKIN #351245 Q35 TROY NY,-5.02,Dining,,current,student_confirmed,student,2026-09-08,student,DUNKIN TROY NY
+L-161,PURCHASE AUTHORIZED ON 09/08 TARGET T-1849 LATHAM NY CARD 4821,-28.41,Groceries,food run,current,student_confirmed,student,2026-09-08,student,TARGET LATHAM NY
+L-162,SHELL OIL 57444279 TROY NY,-33.78,Transport,,current,student_confirmed,student,2026-09-08,student,SHELL OIL TROY NY
+L-163,CHECKCARD 0909 UBER *TRIP HELP.UBER.COM CA 44157372983,-12.22,Transport,,current,student_confirmed,student,2026-09-09,student,UBER * TRIP HELP.UBER.COM CA
+L-164,POS PURCHASE SPOTIFY USA 82SKZCJHT2,-5.99,Subscriptions,,current,student_confirmed,student,2026-09-09,student,SPOTIFY USA
+L-165,POS PURCHASE TST* LITTLE MOMO TROY NY,-23.88,Dining,,current,student_confirmed,student,2026-09-09,student,TST * LITTLE MOMO TROY NY
+L-166,PURCHASE AUTHORIZED ON 09/09 STARBUCKS STORE 23104 ALBANY NY CARD 4821,-6.95,Dining,,current,student_confirmed,student,2026-09-09,student,STARBUCKS STORE ALBANY NY
+L-167,PURCHASE AUTHORIZED ON 09/10 APPLE.COM/BILL CUPERTINO CA CARD 4821,-0.99,Entertainment,one-off app purchase,current,student_confirmed,student,2026-09-10,student,APPLE.COM/BILL CUPERTINO CA
+L-168,DIRECT DEP HUDSON DINING SVC PAYROLL PPD ID: 9145667201,343.02,Income,,current,student_confirmed,student,2026-09-11,student,DIRECT DEP HUDSON DINING SVC PAYROLL
+L-169,DOORDASH*DASHPASS SAN FRANCISCO CA,-4.99,Subscriptions,DashPass student plan,current,student_confirmed,student,2026-09-11,student,DOORDASH * DASHPASS SAN FRANCISCO CA
+L-170,VENMO PAYMENT 5225551094 WEB ID: 3264681992,-29.43,Transfers,,current,student_confirmed,student,2026-09-11,student,VENMO PAYMENT
+L-171,NATIONAL GRID NY WEB PMT,-54.9,Rent & Utilities,,current,student_confirmed,student,2026-09-12,student,NATIONAL GRID NY WEB PMT
+L-172,TM *TICKETMASTER EVENTS,-48.5,Entertainment,,current,student_confirmed,student,2026-09-12,student,TM * TICKETMASTER EVENTS
+L-173,AMAZON.COM*YLK82YB9A AMZN.COM/BILL WA,-10.62,Shopping,,current,student_confirmed,student,2026-09-13,student,AMAZON.COM * AMZN.COM/BILL WA
+L-174,VENMO PAYMENT 5123963489 WEB ID: 3264681992,-25.43,Transfers,,current,student_confirmed,student,2026-09-13,student,VENMO PAYMENT
+L-175,ONLINE TRANSFER TO SAV XXXXXX4821 REF #U06P7L1P,-50.0,Transfers,,current,student_confirmed,student,2026-09-15,student,ONLINE TRANSFER TO SAV
+L-176,UBER *TRIP HELP.UBER.COM CA,-19.97,Transport,,current,student_confirmed,student,2026-09-15,student,UBER * TRIP HELP.UBER.COM CA
+L-177,WM SUPERCENTER #2341 TROY NY,-38.93,Groceries,food run,current,student_confirmed,student,2026-09-15,student,WM SUPERCENTER TROY NY
+L-178,CHARTER SPECTRUM ONLINE PMT,-32.5,Rent & Utilities,,current,student_confirmed,student,2026-09-16,student,CHARTER SPECTRUM ONLINE PMT
+L-179,BAGEL GROOVE INC TROY NY,-8.44,Dining,,current,student_confirmed,student,2026-09-17,student,BAGEL GROOVE INC TROY NY
+L-180,DD *DOORDASH SUSHIKING,-25.95,Dining,,current,student_confirmed,student,2026-09-17,student,DD * DOORDASH SUSHIKING
+L-181,PAYPAL *KJ8STUDIO,-18.0,Shopping,"phone case, unknown seller",current,student_confirmed,student,2026-09-17,student,PAYPAL *
+L-182,PLANET FIT CLUB FEES TROY NY,-15.0,Health,gym membership,current,student_confirmed,student,2026-09-17,student,PLANET FIT CLUB FEES TROY NY
+L-183,POS PURCHASE CITY OF TROY PARKING TROY NY,-4.04,Transport,,current,student_confirmed,student,2026-09-17,student,CITY OF TROY PARKING TROY NY
+L-184,POS PURCHASE MCDONALD'S F3324 LATHAM NY,-8.89,Dining,,current,student_confirmed,student,2026-09-17,student,MCDONALD'S LATHAM NY
+L-185,CVS/PHARMACY #01234 TROY NY,-13.93,Health,cold medicine,current,student_confirmed,student,2026-09-18,student,CVS/PHARMACY TROY NY
+L-186,PURCHASE AUTHORIZED ON 09/18 APPLE.COM/BILL CUPERTINO CA CARD 4821,-2.99,Subscriptions,iCloud+ 50GB plan,current,student_confirmed,student,2026-09-18,student,APPLE.COM/BILL CUPERTINO CA
+L-187,CHECKCARD 0919 STARBUCKS STORE 23104 ALBANY NY 92109365590,-5.92,Dining,,current,student_confirmed,student,2026-09-19,student,STARBUCKS STORE ALBANY NY
+L-188,DOORDASH*SLICE OF TROY SAN FRANCISCO CA,-22.72,Dining,,current,student_confirmed,student,2026-09-19,student,DOORDASH * SLICE OF TROY SAN FRANCISCO CA
+L-189,GRUBHUB*BIGMOOSEDELI,-19.6,Dining,,current,student_confirmed,student,2026-09-19,student,GRUBHUB * BIGMOOSEDELI
+L-190,PURCHASE AUTHORIZED ON 09/19 CHIPOTLE 2817 TROY NY CARD 4821,-11.94,Dining,,current,student_confirmed,student,2026-09-19,student,CHIPOTLE TROY NY
+L-191,SQ *KOPI KOPI TROY NY,-7.75,Dining,,current,student_confirmed,student,2026-09-19,student,SQ * KOPI KOPI TROY NY
+L-192,OPENAI *CHATGPT SUBSCR SAN FRANCISCO CA,-20.0,Subscriptions,,current,student_confirmed,student,2026-09-20,student,OPENAI * CHATGPT SUBSCR SAN FRANCISCO CA
+L-193,PRICE CHOPPER #172 TROY NY,-73.99,Groceries,,current,student_confirmed,student,2026-09-20,student,PRICE CHOPPER TROY NY
+L-194,STARBUCKS STORE 23104 ALBANY NY,-6.67,Dining,,current,student_confirmed,student,2026-09-20,student,STARBUCKS STORE ALBANY NY
+L-195,POS PURCHASE TARGET T-1849 LATHAM NY,-61.44,Shopping,apartment / dorm stuff,current,student_confirmed,student,2026-09-21,student,TARGET LATHAM NY
+L-196,SQ *THE BRICK OVEN TROY NY,-20.82,Dining,,current,student_confirmed,student,2026-09-21,student,SQ * THE BRICK OVEN TROY NY
+L-197,CHECKCARD 0922 STARBUCKS STORE 23104 ALBANY NY 88437432944,-5.99,Dining,,current,student_confirmed,student,2026-09-22,student,STARBUCKS STORE ALBANY NY
+L-198,PURCHASE AUTHORIZED ON 09/22 MINT MOBILE MINTMOBILE.COM CA CARD 4821,-16.38,Rent & Utilities,,current,student_confirmed,student,2026-09-22,student,MINT MOBILE MINTMOBILE.COM CA
+L-199,HUDSON VALLEY URGENT CARE TROY NY,-35.0,Health,copay,current,student_confirmed,,2026-09-23,student,HUDSON VALLEY URGENT CARE TROY NY
+L-200,CAPITAL ONE MOBILE PMT,-259.82,Transfers,,current,student_confirmed,student,2026-09-24,student,CAPITAL ONE MOBILE PMT
+L-201,STEWARTS SHOP 345 TROY NY,-5.53,Dining,ice cream / coffee,current,student_confirmed,student,2026-09-24,student,STEWARTS SHOP TROY NY
+L-202,CHECKCARD 0925 STARBUCKS STORE 08812 TROY NY 16240226832,-7.44,Dining,,current,student_confirmed,student,2026-09-25,student,STARBUCKS STORE TROY NY
+L-203,DIRECT DEP HUDSON DINING SVC PAYROLL PPD ID: 9145667201,342.25,Income,,current,student_confirmed,student,2026-09-25,student,DIRECT DEP HUDSON DINING SVC PAYROLL
+L-204,UBER *EATS HELP.UBER.COM CA,-22.68,Dining,,current,student_confirmed,student,2026-09-25,student,UBER * EATS HELP.UBER.COM CA
+L-205,AMAZON PRIME*DJP7WVGSQ AMZN.COM/BILL WA,-7.49,Subscriptions,Prime Student,current,student_confirmed,student,2026-09-26,student,AMAZON PRIME * AMZN.COM/BILL WA
+L-206,DUNKIN #351245 Q35 TROY NY,-5.75,Dining,,current,student_confirmed,student,2026-09-26,student,DUNKIN TROY NY
+L-207,PURCHASE AUTHORIZED ON 09/26 AMC ONLINE #4012 LEAWOOD KS CARD 4821,-13.49,Entertainment,,current,student_confirmed,student,2026-09-26,student,AMC ONLINE LEAWOOD KS
+L-208,CDTA MOBILE TICKET ALBANY NY,-1.5,Transport,,current,student_confirmed,student,2026-09-27,student,CDTA MOBILE TICKET ALBANY NY
+L-209,POS PURCHASE COSTCO WHSE #1088 COLONIE NY,-64.99,Shopping,desk chair,current,student_confirmed,student,2026-09-27,student,COSTCO WHSE COLONIE NY
+L-210,HANNAFORD #8212 TROY NY,-56.66,Groceries,,current,student_confirmed,student,2026-09-30,student,HANNAFORD TROY NY
+L-211,MONTHLY SERVICE FEE,-4.95,Fees,,current,student_confirmed,student,2026-09-30,student,MONTHLY SERVICE FEE
